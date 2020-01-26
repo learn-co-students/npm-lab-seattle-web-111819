@@ -1,0 +1,14 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "color changing clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Amy Chen",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
